@@ -1,0 +1,110 @@
+[
+    {
+        "matkul": "Administrasi Basis Data",
+        "hari": "Selasa",
+        "jam": "07:00 - 09:30",
+        "ruangan": "F4.13",
+        "kelas": "A",
+        "dosen": "Welly Purnomo, ST., M.Kom.",
+        "sks": "3"
+    },
+    {
+        "matkul": "Data Sains",
+        "hari": "Rabu",
+        "jam": "07:00 - 09:30",
+        "ruangan": "F2.5",
+        "kelas": "E",
+        "dosen": "Niken Hendrakusma Wardani, S.Kom., M.Kom",
+        "sks": "3"
+    },
+    {
+        "matkul": "Jaringan Komputer ",
+        "hari": "Rabu",
+        "jam": "09:35 - 12:10",
+        "ruangan": "F3.6",
+        "kelas": "D",
+        "dosen": "Aswin Suharsono, S T., M.T.",
+        "sks": "3"
+    },
+    {
+        "matkul": "Jaringan Komputer ",
+        "hari": "Kamis",
+        "jam": "10:30 - 12:10",
+        "ruangan": "G1.4",
+        "kelas": "D",
+        "dosen": "Aswin Suharsono, S T., M.T.",
+        "sks": "1"
+    },
+    {
+        "matkul": "Pemrograman SQL ",
+        "hari": "Rabu",
+        "jam": "12:30 - 15:10",
+        "ruangan": "G1.6",
+        "kelas": "B",
+        "dosen": "Ir. Nanang Yudi Setiawan, S.T., M.Kom.",
+        "sks": "1"
+    },
+    {
+        "matkul": "Pemrograman SQL ",
+        "hari": "Selasa",
+        "jam": "10:30 - 12:10",
+        "ruangan": "F3.4",
+        "kelas": "B",
+        "dosen": "Ir. Nanang Yudi Setiawan, S.T., M.Kom.",
+        "sks": "2"
+    },
+    {
+        "matkul": "Dasar Pengembangan Sistem Informasi ",
+        "hari": "Rabu",
+        "jam": "15:20 - 17:00",
+        "ruangan": "G1.2",
+        "kelas": "B",
+        "dosen": "Djoko Pramono, S.T., M.Kom.",
+        "sks": "1"
+    },
+    {
+        "matkul": "Dasar Pengembangan Sistem Informasi ",
+        "hari": "Kamis",
+        "jam": "15:20 - 17:00",
+        "ruangan": "G1.2",
+        "kelas": "B",
+        "dosen": "Djoko Pramono, S.T., M.Kom.",
+        "sks": "2"
+    },
+    {
+        "matkul": "Pemrograman Aplikasi Berbasis Web",
+        "hari": "Senin",
+        "jam": "12:30 - 15:10",
+        "ruangan": "F3.6",
+        "kelas": "A",
+        "dosen": "Rizal Setya Perdana, S.Kom., M.Kom., Ph.D.",
+        "sks": "3"
+    },
+    {
+        "matkul": "Pemrograman Aplikasi Berbasis Web",
+        "hari": "Jumat",
+        "jam": "14:15 - 15:55",
+        "ruangan": "G1.2",
+        "kelas": "A",
+        "dosen": "Rizal Setya Perdana, S.Kom., M.Kom., Ph.D.",
+        "sks": "1"
+    },
+    {
+        "matkul": "Algoritma Struktur Data ",
+        "hari": "Selasa",
+        "jam": "12:30 - 14:10",
+        "ruangan": "G1.6",
+        "kelas": "C",
+        "dosen": "Putra Pandu Adikara, S.Kom., M.Kom.",
+        "sks": "1"
+    },
+    {
+        "matkul": "Algoritma Struktur Data ",
+        "hari": "Senin",
+        "jam": "08:45 - 10:30",
+        "ruangan": "F4.10",
+        "kelas": "C",
+        "dosen": "Putra Pandu Adikara, S.Kom., M.Kom.",
+        "sks": "2"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "nama_tugas": "Website Jadwal Kuliah",
+        "matkul_tugas": "Pemrograman Aplikasi Berbasis Web",
+        "deadline": "2025-09-20",
+        "status": "ongoing"
+    },
+    {
+        "nama_tugas": "Soal 1 & 2 ttg regresi",
+        "matkul_tugas": "Data Sains",
+        "deadline": "2025-09-24",
+        "status": "ongoing"
+    },
+    {
+        "nama_tugas": "Belajar Jaringan Komputer",
+        "matkul_tugas": "Jaringan Komputer",
+        "deadline": "2025-09-19",
+        "status": "belum"
+    }
+]
